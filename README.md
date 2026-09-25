@@ -4,7 +4,7 @@ This repository is the **Fall 2026 student-facing notebook repository** for MSE 
 
 ## Fall 2026 notebooks
 
-All current notebooks are kept together in the [`modules`](modules/) directory. We use one directory rather than separate lecture and assignment repositories because a single notebook may support class observation, quantitative analysis, an in-class exercise, and an assignment.
+All current notebooks are kept together in the [`modules`](modules/) directory. For now, we will use one directory rather than separate lecture and assignment repositories because a single notebook may support class observation, quantitative analysis, an in-class exercise, and an assignment. We will later create an assignment repository for peer review.
 
 The [`modules/README.md`](modules/README.md) page is the notebook index and will be updated as materials are released. Canvas and the Course Guide will indicate which notebook to use and when.
 
